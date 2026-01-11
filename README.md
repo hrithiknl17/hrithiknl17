@@ -17,8 +17,8 @@
 
 ```javascript
 const hrithik = {
-    location: "Bashettihalli, Karnataka, India 🇮🇳",
-    currentFocus: "Building Sketch-to-3D AI Model",
+    location: "Banashankri, Karnataka, India 🇮🇳",
+    currentFocus: "Looking for an intership",
     languages: ["Python", "JavaScript", "TypeScript", "HTML/CSS"],
     frameworks: {
         frontend: ["React", "Tailwind CSS", "Bootstrap"],
