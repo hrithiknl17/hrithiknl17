@@ -88,30 +88,6 @@ const hrithik = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hrithiknl17&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&layout=compact" alt="Coding Activity" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=hrithiknl17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎨 Featured Projects
 
 <div align="center">
@@ -169,11 +145,11 @@ const hrithik = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlhrithik123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlhrithik123@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-n-l-27bb39351/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nlhrithik123)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://Discord.com/users/830872582831996930)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hrithiknl.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -184,23 +160,6 @@ const hrithik = {
 <div align="center">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📈 Detailed GitHub Insights
-
-<div align="center">
-
-### 📊 Contribution Stats
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrithiknl17&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" alt="Contribution Graph" />
-
-### 💡 More Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hrithiknl17&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Wakatime Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Language Pie Chart" />
 
 </div>
 
