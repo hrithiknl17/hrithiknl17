@@ -1,53 +1,64 @@
-# Hi 👋, I'm Hrithik
+# 👋 Hey there, I'm **Hrithik**!
 
-I’m a learner and aspiring software developer, currently building projects to
-strengthen my fundamentals in Git, GitHub, and programming.
+<img align="right" src="https://komarev.com/ghpvc/?username=hrithiknl17&color=blue" alt="Profile views" />
 
----
-
-## 🔧 Skills & Tools
-- Git & GitHub (branches, commits, merges)
-- Python (basics, scripting)
-- Command Line (Git Bash)
-- Learning Full-Stack Development
+Welcome to my corner of GitHub!  
+I’m a learner and explorer of code, Git workflows, and cool new tech ✨
 
 ---
 
-## 📂 Projects
+## 🧠 About Me
 
-Here are some projects I’ve worked on while learning and practicing:
-
-### 🔹 codedex-repo
-Practice repository for Git and GitHub workflows.  
-**Skills:** Branching, merging, commits, remote repositories  
-👉 https://github.com/hrithiknl17/codedex-repo-
-
-### 🔹 github-chapter-2-sandbox
-Sandbox repository for hands-on Git exercises and experiments.  
-**Skills:** Version control fundamentals  
-👉 https://github.com/hrithiknl17/github-chapter-2-sandbox
-
-### 🔹 Other Practice Repositories
-You can find more learning projects here:  
-👉 https://github.com/hrithiknl17?tab=repositories
+- 📍 Based in India  
+- 🤓 Currently learning Git, GitHub, Python, and more  
+- 💬 Ask me about Git workflows, branching, or debugging  
+- 🌱 I’m growing my coding skills one commit at a time  
 
 ---
 
-## 🎯 What I’m Currently Learning
-- GitHub collaboration workflows
-- Clean commit history & best practices
-- Building small projects to improve consistency
+## 🚀 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/hrithiknl17"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/hrithiknl17"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://twitter.com/hrithiknl17"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" /></a>
+</p>
 
 ---
 
-## 📌 Goals
-- Become confident with real-world Git workflows
-- Build meaningful beginner-friendly projects
-- Grow towards full-stack development
+## 🏆 Achievements
+
+✨ Trying out GitHub achievements like:
+
+![Starstruck](https://github-profile-trophy.vercel.app/?username=hrithiknl17&theme=darkhub)  
+*Collecting badges as I grow!* 🎖️
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/hrithiknl17
+## 📊 GitHub Stats
 
-Thanks for visiting my profile 🙂
+![Hrithik’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=tokyonight)
+
+---
+
+## 🗂️ My Projects
+
+Here are a few repos I’ve built while learning:
+
+- 💼 **[codedex-repo](https://github.com/hrithiknl17/codedex-repo-)** – Git practice & workflows  
+- 🧪 **[github-chapter-2-sandbox](https://github.com/hrithiknl17/github-chapter-2-sandbox)** – Sandbox for Git experiments  
+- 🔍 *Check out more:* https://github.com/hrithiknl17?tab=repositories
+
+---
+
+## 🤖 Fun Fact
+
+> “Tools are just tools — principles matter more.” 😄  
+Whether it’s bash, Python, or Git — I’m here to learn and improve!
+
+---
+
+## ⌨️ Code Like This
+
+Some ASCII art because it’s classic:
+
