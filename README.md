@@ -93,10 +93,10 @@ const hrithik = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&count_private=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=10" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrithiknl17&theme=radical" alt="Profile Details" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hrithiknl17&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&layout=compact" alt="Coding Activity" />
 
 </div>
 
@@ -104,34 +104,9 @@ const hrithik = {
 
 ## 🏆 GitHub Trophies
 
-
 <div align="center">
-
-### 🔥 Contribution Streak & Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
-
-### 📈 Coding Activity & Language Distribution
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=10" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrithiknl17&theme=radical" />
-    </td>
-  </tr>
-</table>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrithiknl17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -218,24 +193,14 @@ const hrithik = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrithiknl17&theme=radical&utcOffset=5.5" alt="Productive Time" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrithiknl17&theme=radical" alt="Repos Per Language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrithiknl17&theme=radical" alt="Most Used Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrithiknl17&theme=radical" alt="Stats" />
-    </td>
-  </tr>
-</table>
+### 📊 Contribution Stats
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrithiknl17&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" alt="Contribution Graph" />
+
+### 💡 More Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hrithiknl17&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Wakatime Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Language Pie Chart" />
 
 </div>
 
