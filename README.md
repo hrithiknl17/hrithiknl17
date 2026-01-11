@@ -91,18 +91,42 @@ const hrithik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=tokyonight&hide_border=true&background=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=percentile" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrithiknl17&theme=tokyonight&utcOffset=5.5" />
+### 🔥 Contribution Streak & Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+    </td>
+  </tr>
+</table>
+
+### 📈 Coding Activity & Language Distribution
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithiknl17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=10" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrithiknl17&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrithiknl17&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrithiknl17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -112,10 +136,50 @@ const hrithik = {
 
 <div align="center">
 
-[![Sketch-to-3D AI](https://github-readme-stats.vercel.app/api/pin/?username=hrithiknl17&repo=sketch-to-3d&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/hrithiknl17)
-[![DermoScan AI](https://github-readme-stats.vercel.app/api/pin/?username=hrithiknl17&repo=dermoscan-ai&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/hrithiknl17/dermoscan-ai)
-[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=hrithiknl17&repo=ecommerce-project-&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/hrithiknl17/ecommerce-project-)
-[![Social Agent](https://github-readme-stats.vercel.app/api/pin/?username=hrithiknl17&repo=Social-Agent-&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/hrithiknl17/Social-Agent-)
+### 🚀 Check Out My Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Sketch-to-3D AI Model</h3>
+      <div align="center">  
+        <a href="https://github.com/hrithiknl17/sketch-to-3d" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>Python, TensorFlow, Computer Vision</strong> - AI model that converts 2D sketches into 3D models</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 DermoScan AI</h3>
+      <div align="center">  
+        <a href="https://github.com/hrithiknl17/dermoscan-ai" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>TypeScript, AI/ML, Healthcare</strong> - Skin cancer detection using deep learning</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 E-commerce Platform</h3>
+      <div align="center">  
+        <a href="https://github.com/hrithiknl17/ecommerce-project-" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <p><strong>TypeScript, React, Full-Stack</strong> - Complete e-commerce solution with modern UI</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Social Agent Platform</h3>
+      <div align="center">  
+        <a href="https://github.com/hrithiknl17/Social-Agent-" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-FFE66D?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+        </a>
+        <p><strong>TypeScript, AI, Social Media</strong> - Intelligent social media management tool</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -125,11 +189,12 @@ const hrithik = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlhrithik123@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-n-l-27bb39351/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nlhrithik123)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://Discord.com/users/830872582831996930)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![YouTube](https://img.shields.io/badge/Mystic_Forge-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourvchannel)
 
 </div>
 
@@ -145,22 +210,48 @@ const hrithik = {
 
 ---
 
-## 🎯 Coding Stats
+## 🎯 Recent Activity & Contributions
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📈 Contribution Heat Map
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrithiknl17&custom_title=Hrithik's%20Contribution%20Graph&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/hrithiknl17/hrithiknl17/output/github-contribution-grid-snake-dark.svg)
+
+### 🔥 More Stats & Achievements
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrithiknl17&theme=radical&utcOffset=5.5" />
+      <br />
+      <strong>⏰ Most Productive Time</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrithiknl17&theme=radical" />
+      <br />
+      <strong>📦 Repos Per Language</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrithiknl17&theme=radical" />
+      <br />
+      <strong>💻 Most Used Languages</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrithiknl17&theme=radical" />
+      <br />
+      <strong>📊 Commit Stats</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
