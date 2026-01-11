@@ -97,7 +97,7 @@ const hrithik = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiknl17&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=hrithiknl17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
