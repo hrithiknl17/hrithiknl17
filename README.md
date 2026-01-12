@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Django+Specialist+%E2%9A%A1;Building+Sketch-to-3D+AI+%F0%9F%A4%96;Mystic+Forge+Creator+%F0%9F%8E%AE;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Django+Specialist+%E2%9A%A1;Building+Sketch-to-3D+AI+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%8E%AE;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhrithiknl17&label=Profile%20Visitors&countColor=%2327b800&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhrithiknl17)
 [![Profile Views](https://komarev.com/ghpvc/?username=hrithiknl17&color=0e75b6&style=flat)](https://github.com/hrithiknl17)
