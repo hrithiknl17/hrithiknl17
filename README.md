@@ -1,10 +1,8 @@
+# 🌊 Welcome to My Digital Universe 🌊
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=HRITHIK%20N%20L&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Minecraft%20Creator&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn&background=https://images.unsplash.com/photo-1470509037663-253afd7f0f51)
+
 <div align="center">
-
-# 🌻 Welcome to My Digital Universe 🌻
-
-<img src="https://res.cloudinary.com/do6k48kg7/image/upload/v1768200014/github_banner_mquris.png" alt="Hrithik N L Banner" width="100%" />
-
-</div>
 
 <div align="center">
   
