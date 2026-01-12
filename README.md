@@ -1,6 +1,6 @@
 # 🌊 Welcome to My Digital Universe 🌊
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=HRITHIK%20N%20L&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Minecraft%20Creator&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=HRITHIK%20N%20L&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn)
 
 <div align="center">
   
