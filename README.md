@@ -1,7 +1,6 @@
-# 🌊 Welcome to My Digital Universe 🌊
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=HRITHIK%20N%20L&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50&fontColor=FFFFFF&animation=fadeIn)
-
+🌻 Welcome to My Digital Universe 🌻
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFD700,50:FFA500,100:FF8C00&section=header&text=HRITHIK%20N%20L&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Minecraft%20Creator&descAlignY=55&descSize=22&descAlign=50" />
+</div>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Django+Specialist+%E2%9A%A1;Building+Sketch-to-3D+AI+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%8E%AE;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
