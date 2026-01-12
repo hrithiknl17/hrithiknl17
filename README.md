@@ -17,7 +17,7 @@
 
 ```javascript
 const hrithik = {
-    location: "Banashankri, Karnataka, India 🇮🇳",
+    location: "Bangalore, Karnataka, India 🇮🇳",
     currentFocus: "Looking for an intership",
     languages: ["Python", "JavaScript", "TypeScript", "HTML/CSS"],
     frameworks: {
@@ -39,7 +39,6 @@ const hrithik = {
 ### 🌟 What I'm Up To
 
 - 🔭 Currently building a **Sketch-to-3D AI Model** using cutting-edge ML techniques
-- 🎮 Creating epic content for my **Mystic Forge** Minecraft Channel
 - 💼 Open to **Full Stack Developer** opportunities
 - 🌱 Constantly learning new technologies and expanding my skill set
 - 🤝 Looking to collaborate on **AI/ML** and **Web Development** projects
